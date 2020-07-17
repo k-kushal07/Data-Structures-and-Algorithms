@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Solution {
+public class LeftRotation {
 
     private static final Scanner scanner = new Scanner(System.in);
 
